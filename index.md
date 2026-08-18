@@ -1,8 +1,8 @@
 # Gizlilik Politikası
 
-**Son güncelleme tarihi:** 12 Ağustos 2026
+**Son güncelleme tarihi:** 18 Ağustos 2026
 
-Bu politika, "Flappy MyBird" mobil oyun uygulamasının ("Uygulama") kullanıcı verilerini nasıl topladığını ve işlediğini açıklar.
+Bu politika, "Jumping Bird" mobil oyun uygulamasının ("Uygulama") kullanıcı verilerini nasıl topladığını ve işlediğini açıklar.
 
 ## Toplanan Veriler
 
